@@ -112,7 +112,7 @@ jobs:
 ### Thank You Dear
 
 > DEVELOPER OF ALM-MD 
-- [Lord Malvin ](https://github.com/techlord01)
+- [Almach ](https://github.com/almtz)
 - Creater and Owner Of ALM-MD
 
 > ALM-MD Helper
