@@ -106,4 +106,4 @@ jobs:
 - [Almach](https://github.com/almtz)
 - For helping in bot plugin files.
 ---
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>rc='https://i.imgur.com/LyHic3i.gif'/>
