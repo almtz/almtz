@@ -48,7 +48,7 @@ const ownerNumber = ['255683174517']
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("Alm-pair~", '');
+const sessdata = config.SESSION_ID.replace("MALVIN-XD~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -274,4 +274,4 @@ res.send("HEY, ALM-MD STARTED ✅");
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
 connectToWA()
-}, 4000);
+}, 4000); 4000);
