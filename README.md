@@ -16,7 +16,7 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/almtz/ALM-MD/fork"><img title="ALM-MD" src="https://img.shields.io/badge/FORK-ALM-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/almtz/ALM-MD/fork"><img title="ALM-MD" src="https://img.shields.io/github/forks/ALM-MD?color=darkblue&style=for-the-badge&logo=github&color=4c1&label=fork%20ALM-MD" alt="fork ALM-MD" /></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -24,7 +24,7 @@
 
 > To deploy, generate your session ID from the link below:
 <p align="left">
-  <a href="https://Alm-pair-code-xzcb.onrender.com/?">
+  <a href="https://i.imgur.com/LyHic3i.gif" alt="Authentication Flow preview" />
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
